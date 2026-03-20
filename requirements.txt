@@ -1,0 +1,46 @@
+openai==1.108.0
+langchain==0.3.27
+langchain-community==0.3.29
+langchain-core==0.3.76
+langchain-experimental==0.3.0
+langchain-openai==0.3.33
+langchain-ollama==0.3.8
+langchain-huggingface==0.3.1
+langgraph==0.6.7
+chromadb==1.1.0
+ragas==0.3.2 
+rapidfuzz==3.14.1
+datasets==4.1.1
+
+# Docling, rag-challenge2
+docling==2.53.0
+pyprojroot==0.3.0
+
+# HuggingeFace
+#transformers==4.56.1
+sentence-transformers==5.1.0 
+
+#support qwen3-vl-embedding
+transformers==4.57.6  
+qwen_vl_utils==0.0.14
+
+# UI
+streamlit==1.49.1
+streamlit-pdf==1.0.7
+
+#CLIP
+open_clip_torch
+torch
+
+# dspy
+#dspy
+#dspy-ai
+#mlflow
+
+# ocr
+#tesseract
+#tesserocr
+
+
+# Gradio
+gradio
